@@ -1,4 +1,4 @@
-<h1>👋 Olá, meu nomé é Christian </h1>
+<h1>👋 Olá, meu nome é Christian </h1>
 Sou um entusiasta de tecnologia apaixonado por programação e desenvolvimento de software. Este é o meu espaço no GitHub, onde compartilho alguns dos meus projetos e contribuições para a comunidade de código aberto.
 
 ### Sobre mim
